@@ -1,2 +1,2 @@
 # AI_Microdegree_Projects-
-Project files 
+Projects I have created while doing AI Microdegree Course.
